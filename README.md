@@ -1,4 +1,4 @@
 tasmo.github.io
 ===============
 
-another GitHub Flavored Markdown blog
+another GitHub Flavored Markdown site

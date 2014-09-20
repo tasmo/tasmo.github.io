@@ -1,6 +1,6 @@
 [tasmo.github.io]
 =================
 
-another GitHub Flavored Markdown site
+another GitHub blog Spielplatz
 
 [tasmo.github.io]: http://tasmo.github.io/

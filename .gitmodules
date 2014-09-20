@@ -1,3 +1,3 @@
-[submodule "firebase-jekyll-comments"]
-  path = _includes
-  url = https://github.com/mimming/firebase-jekyll-comments/tree/master/_includes
+[submodule "_includes/firebase-jekyll-comments"]
+	path = _includes/firebase-jekyll-comments
+	url = git@github.com:mimming/firebase-jekyll-comments.git

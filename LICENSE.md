@@ -1,1 +1,1 @@
-Die Inhalte von [tasmo.io](http://gh.tasmo.de) stehen unter der "[Creative Commons Namensnennung 3.0 Lizenz](http://creativecommons.org/licenses/by/3.0/)" (CC BY 3.0).
+Die Inhalte von [tasmo.io](http://gh.tasmo.de) stehen unter der "[Creative Commons Lizenz mit Namensnennung - Weitergabe unter gleichen Bedingungen](https://creativecommons.org/licenses/by-sa/4.0/deed.de)" (CC BY-SA 4.0).

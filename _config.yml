@@ -1,0 +1,9 @@
+# Site settings
+title: _tasmo.io
+tag_text:
+description: another GitHub pages playground
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

@@ -1,6 +1,6 @@
-[tasmo.github.io]
-=================
+[_tasmo.io]
+===========
 
 another GitHub blog Spielplatz
 
-[tasmo.github.io]: http://tasmo.github.io/
+[_tasmo.io]: https://tasmo.github.io/

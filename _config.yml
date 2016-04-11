@@ -6,4 +6,8 @@ description: another GitHub pages playground
 # Build settings
 markdown: kramdown
 
+# mudules
+gems:
+  - jemoji
+
 exclude: ["README.md"]

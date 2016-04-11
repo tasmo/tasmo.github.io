@@ -105,14 +105,14 @@ hr {
   top: -1px;
 }
 
-.container img, .container iframe {
-  max-width: 100%;
-}
-
-.container img {
-  margin: 0 auto;
-  display: block;
-}
+//.container img, .container iframe {
+//  max-width: 100%;
+//}
+//
+//.container img {
+//  margin: 0 auto;
+//  display: block;
+//}
 
 table {
   width: 100%;

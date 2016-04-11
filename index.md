@@ -3,7 +3,11 @@ layout: page
 title: _tasmo.io
 ---
 
+***
+
 ## Projects
+
+***
 
 ### [reveal-jekyll](https://github.com/tasmo/reveal-jekyll)
 
@@ -15,3 +19,5 @@ Transforms Markdown files into presentation slides using [reveal.js](#revealjs) 
 [![Build Status](https://travis-ci.org/tasmo/reveal-jekyll.svg?branch=master)](https://travis-ci.org/tasmo/reveal-jekyll)
 
 Try the **[DEMO presentation](http://gh.tasmo.de/reveal-jekyll/)** (how to use Jekyll written in German).
+
+***

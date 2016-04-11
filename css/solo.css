@@ -1,5 +1,5 @@
 html {
-  font: 16px/1.5 Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font: 16px/1.5 'open_sanslight', 'Open Sans', Arial, sans-serif;;
 }
 
 @media (min-width: 30rem) {
@@ -29,7 +29,7 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+  font-family: 'Source Code Pro', 'Inconsolata-g', 'Inconsolata', monaco, monospace;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
   color: #111;
@@ -126,7 +126,7 @@ td, th {
 }
 
 pre, code {
-  font-family: inherit;
+  font-family: 'Source Code Pro', 'Inconsolata-g', 'Inconsolata', monaco, monospace;
   background-color: #eee;
 }
 
